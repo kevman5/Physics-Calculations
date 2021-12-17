@@ -1,0 +1,10 @@
+C:\Users\kevmm\source\repos\MethodOne\MethodOne\bin\Debug\MethodOne.exe.config
+C:\Users\kevmm\source\repos\MethodOne\MethodOne\bin\Debug\MethodOne.exe
+C:\Users\kevmm\source\repos\MethodOne\MethodOne\bin\Debug\MethodOne.pdb
+C:\Users\kevmm\source\repos\MethodOne\MethodOne\obj\Debug\MethodOne.csproj.AssemblyReference.cache
+C:\Users\kevmm\source\repos\MethodOne\MethodOne\obj\Debug\MethodOne.Form1.resources
+C:\Users\kevmm\source\repos\MethodOne\MethodOne\obj\Debug\MethodOne.Properties.Resources.resources
+C:\Users\kevmm\source\repos\MethodOne\MethodOne\obj\Debug\MethodOne.csproj.GenerateResource.cache
+C:\Users\kevmm\source\repos\MethodOne\MethodOne\obj\Debug\MethodOne.csproj.CoreCompileInputs.cache
+C:\Users\kevmm\source\repos\MethodOne\MethodOne\obj\Debug\MethodOne.exe
+C:\Users\kevmm\source\repos\MethodOne\MethodOne\obj\Debug\MethodOne.pdb
